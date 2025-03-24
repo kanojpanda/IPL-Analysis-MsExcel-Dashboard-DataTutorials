@@ -36,8 +36,8 @@ Below is a concise list of key questions that the final IPL MIS dashboard has be
 ## Timeline
 
 - **Data Collection:** 1 day
-- **Data Cleaning and Transformation:** 2 days
-- **Analysis and Dashboard Creation:** 2 days
+- **Data Cleaning and Transformation:** 1 days
+- **Analysis and Dashboard Creation:** 1 days
 - **Final Review and Presentation:** 1 day
 
 ## Outcome
