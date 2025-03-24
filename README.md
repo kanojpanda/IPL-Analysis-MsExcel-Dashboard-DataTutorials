@@ -1,4 +1,4 @@
-# IPL-Analysis-MsExcel-Dashboard
+# IPL-Indian Premier League Analysis (MsExcel-Dashboard)
 
 ## Project Description
 
